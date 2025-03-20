@@ -14,7 +14,12 @@ https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook-Second-Editi
 # DOCUMENTACIÓN
 
 https://docs.python.org/3/
+
 https://pandas.pydata.org/docs/
+
+https://matplotlib.org/
+
+https://docs.scipy.org/doc/scipy/
 
 
 
