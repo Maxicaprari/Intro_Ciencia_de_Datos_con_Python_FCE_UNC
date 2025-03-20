@@ -11,6 +11,10 @@ https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
 https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook-Second-Edition/tree/master/Chapter01
 
 
+# DOCUMENTACIÓN
+
+https://docs.python.org/3/
+https://pandas.pydata.org/docs/
 
 
 
