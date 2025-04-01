@@ -40,3 +40,8 @@ https://www.w3schools.com/python/pandas/pandas_exercises.asp
 **EJERCICIOS SCIPY**
 
 https://www.w3schools.com/python/scipy/scipy_exercises.php
+
+
+**LEETCODE**
+
+https://www.youtube.com/watch?v=LnTFY25NC8s&list=PLk3mOYochcqzMMUaUBSxOypkpOmHGG3k6
